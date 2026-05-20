@@ -1,7 +1,7 @@
 # 🧮 Calculadora de Rentabilidad para Mercado Libre
  
 <div align="center">
-  <img src="https://github.com/cristiandacontreras/Calculadora-margen-de-venta/blob/master/Screenshot_1.png" alt="Screenshot de la calculadora" width="500"/>
+  <img src="https://github.com/cristiandacontreras/Calculadora_margen_de_ganancias/blob/master/assets/Screenshot_1.png" alt="Screenshot de la calculadora" width="500"/>
 </div>
  
 **Una herramienta de escritorio para vendedores de Mercado Libre que importan productos desde Shein.**  
